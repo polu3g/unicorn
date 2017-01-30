@@ -1,0 +1,21 @@
+{
+  "name": "edpnext",
+  "version": "0.0.0",
+  "dependencies": {
+   "edpcore" : "latest"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.0"
+  },
+  "appPath": "app",
+  "moduleName": "edpnextApp",
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "less/bootstrap.less",
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js"
+      ]
+    }
+  }
+}
