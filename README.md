@@ -16,6 +16,28 @@ To create a core / platform for rapidly develop business applications / features
 
 Preferably any front-end oriented framework (FOF), should be hosted as a stack of files either in a Webserver or CDN. Here comes the important question, is it good to use CDN to host the web-application?
 
+<p align="center">
+  <img src="EDP client/Slide1.JPG"/>
+</p>
+<p align="center">
+  <img src="EDP client/Slide2.JPG"/>
+</p>
+<p align="center">
+  <img src="EDP client/Slide3.JPG"/>
+</p>
+<p align="center">
+  <img src="EDP client/Slide4.JPG"/>
+</p>
+<p align="center">
+  <img src="EDP client/Slide5.JPG"/>
+</p>
+<p align="center">
+  <img src="EDP client/Slide6.JPG"/>
+</p>
+<p align="center">
+  <img src="EDP client/Slide7.JPG"/>
+</p>
+
 Of course, YES.. a CDN is nothing but a web-server and meant to host the assets of the Portal. FOF like a plain-vanilla HTML file stack; that driven by couple of JS files. So the expenses of hosting an enterprise class FOF is no more a nightmare; rather a simple budgetary affair of selecting an economically viable Provider &amp; the job is done.  Let&#39;s freeze that a mere www folder structure is fine to start with and scale as you grow deeper to that track.
 
 We will now focus some of the Enterprise feature that AngularJS possess to make an optimistic application:
